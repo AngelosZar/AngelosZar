@@ -8,5 +8,6 @@
 
 - 📫 How to reach me: 
   angelosZaros@proton.me
+  
   https://no.linkedin.com/in/angelos-zaros-963bb71b0
 
