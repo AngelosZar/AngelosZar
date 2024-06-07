@@ -6,7 +6,8 @@
 - 🔭 I’m currently working on a class project called Forkify inspred and designed from Jonas Schmedtmann
 - 👯 I’m looking to collaborate on new projects and expand my knowlendge 
 
-- 📫 How to reach me: 
+- 📫 How to reach me:
+
   angelosZaros@proton.me
   
   https://no.linkedin.com/in/angelos-zaros-963bb71b0
