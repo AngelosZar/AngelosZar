@@ -4,7 +4,7 @@
 
 - 📚 So far, I've work on and have a Great understanding on design (Mostly Figma) ,Project planning,HTML,CSS and Javascript
 - 🌱 I’m currently learning React js and Sass
-- 🔭 I’m currently working on a class project called Forkify inspred and designed from Jonas Schmedtmann
+- 🔭 I’m currently working on a class project called Forkify inspired and designed from Jonas Schmedtmann
 - 👯 I’m looking to collaborate on new projects and expand my knowlendge 
 
 - 📫 How to reach me:
