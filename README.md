@@ -13,4 +13,3 @@
   
   https://no.linkedin.com/in/angelos-zaros-963bb71b0
 
-![Uploading 16136739731551941184 (1).svg…]()
