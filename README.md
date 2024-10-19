@@ -13,3 +13,4 @@
   
   https://no.linkedin.com/in/angelos-zaros-963bb71b0
 
+![16136739731551941184](https://github.com/user-attachments/assets/7c4a695b-1aae-442c-b118-16cb2117aff8)
