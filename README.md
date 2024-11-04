@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning React js and Sass
 - 🔭 I’m currently working on a class project called Forkify inspired and designed from Jonas Schmedtmann
 - 👯 I’m looking to collaborate on new projects and expand my knowlendge
-- 
-![image](https://github.com/user-attachments/assets/6a3075c9-ea26-4408-b4df-3184009c9d76)
+
 
 - 📫 How to reach me:
 
