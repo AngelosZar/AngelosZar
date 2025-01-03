@@ -29,9 +29,4 @@ Front-End Development student passionate about creating engaging web experiences
   <a href="mailto:angelosZaros@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-- 📫 How to reach me:
-
-  angelosZaros@proton.me
-  
-  https://no.linkedin.com/in/angelos-zaros-963bb71b0
 
