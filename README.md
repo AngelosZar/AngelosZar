@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm [Your Name] 👋</h1>
+  <h1>Hi there, I'm Angelos Zaros 👋</h1>
   <h3>Junior Front-End Developer | Student at Noroff</h3>
 </div>
 
@@ -24,9 +24,9 @@ Front-End Development student passionate about creating engaging web experiences
 
 ## Let's Connect! 🤝
 <p align="center">
-  <a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">https://no.linkedin.com/in/angelos-zaros-963bb71b0</a>
-  <a href="your-portfolio-url"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">https://angeloszar.github.io/Angelos-Zaros/</a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">angelosZaros@proton.me</a>
+  <a href="[your-linkedin-url](https://no.linkedin.com/in/angelos-zaros-963bb71b0](https://angeloszar.github.io/Angelos-Zaros/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="your-portfolio-url"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="mailto:angelosZaros@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 - 📫 How to reach me:
