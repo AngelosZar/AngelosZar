@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React js and Sass
 - 🔭 I’m currently working on a class project called Forkify inspired and designed from Jonas Schmedtmann
 - 👯 I’m looking to collaborate on new projects and expand my knowlendge
-- 
+  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,sass,git,js,react," />
