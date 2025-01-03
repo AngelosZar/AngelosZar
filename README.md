@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on a class project called Forkify inspired and designed from Jonas Schmedtmann
 - 👯 I’m looking to collaborate on new projects and expand my knowlendge
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,figma)](https://skillicons.dev)
 
 - 📫 How to reach me:
 
