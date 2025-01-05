@@ -8,7 +8,7 @@ Front-End Development student passionate about creating engaging web experiences
 
 ## Current Focus 🎯
 - 🔭 Building **Forkify** - A recipe application inspired by Jonas Schmedtmann
-- 🌱 Expanding skills in **React.js** and **Sass**
+- 🌱 Expanding skills in **React.js** and **Tailwind css**
 - 👯 Open to collaboration on innovative web projects
 
 ## Tech Stack 💻
