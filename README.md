@@ -19,7 +19,7 @@ Front-End Development student passionate about creating engaging web experiences
 </p>
 
 ## Recent Projects 🛠️
-- **[Auction House]**: Brief description [Live](https://auctions-house1.netlify.app/) | [Code](https://github.com/AngelosZar/Auction-House-Project)
+- **Auction House**: An online auction platform built with modern web technologies. [Live](https://auctions-house1.netlify.app/) | [Code](https://github.com/AngelosZar/Auction-House-Project)
 - **[Project Name]**: Brief description [Live](link) | [Code](link)
 
 ## Let's Connect! 🤝
