@@ -26,7 +26,7 @@ Front-End Development student passionate about creating engaging web experiences
 ## Let's Connect! 🤝
 <p align="center">
   <a href="https://no.linkedin.com/in/angelos-zaros-963bb71b0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://angeloszar.github.io/Angelos-Zaros/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://angelos-zaros.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="mailto:angelosZaros@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
