@@ -7,9 +7,10 @@
 Front-End Development student passionate about creating engaging web experiences. Currently studying at Noroff Vocational School (2023-2025).
 
 ## Current Focus 🎯
-- 🔭 Building **Forkify** - A recipe application inspired by Jonas Schmedtmann
-- 🌱 Expanding skills in **React.js** and **Tailwind css**
-- 👯 Open to collaboration on innovative web projects
+* 🌱 Expanding knowledge and skills in **React.js**, **Tailwind CSS**, and modern web development
+* 📚 Learning and working with testing frameworks like **Jest** and **Cypress**
+* 💼 Looking forward to applying my skills in a professional work environment
+* 👯 Open to collaboration on innovative web projects
 
 ## Tech Stack 💻
 <p align="center">
