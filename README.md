@@ -20,7 +20,7 @@ Front-End Development student passionate about creating engaging web experiences
 
 ## Recent Projects 🛠️
 - **Auction House**: An online auction platform built with vanilla js and tailwind. [Live](https://auctions-house1.netlify.app/) | [Code](https://github.com/AngelosZar/Auction-House-Project)
-- **forkify-Recipe-App**: Recipe application with custom uploads [Live](https://forkify-recipe-app-three.vercel.app/) | [Code](https://github.com/AngelosZar/forkify-Recipe-App)
+- **Forkify Recipe App**: Recipe application with custom uploads [Live](https://forkify-recipe-app-three.vercel.app/) | [Code](https://github.com/AngelosZar/forkify-Recipe-App)
 
 ## Let's Connect! 🤝
 <p align="center">
